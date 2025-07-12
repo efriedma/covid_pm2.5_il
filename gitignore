@@ -1,0 +1,26 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Dependency files
+*/renv/library/
+*/renv/staging/
+
+# Data (raw & processed – regenerate via scripts)
+data/raw/
+data/processed/
+
+# Outputs (plots, maps, etc. – regenerate via scripts)
+plots/
+maps/
+output/
+
+# Logs
+*.log
+
+# Credentials / secrets (if any)
+.env
