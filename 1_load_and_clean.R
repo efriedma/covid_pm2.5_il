@@ -1,4 +1,3 @@
-
 # 1_load_and_clean.R
 # Load and Filter Original Dataset for Illinois
 
