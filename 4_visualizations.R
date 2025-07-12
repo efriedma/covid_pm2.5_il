@@ -1,4 +1,3 @@
-
 # 4_visualizations.R
 # Safe correlation plot with per-column reason logging using aggregate_data
 
