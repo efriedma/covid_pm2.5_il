@@ -1,4 +1,3 @@
-
 # 3_scale_and_model.R
 # Linear Modeling on Predictors
 
