@@ -1,7 +1,7 @@
 
 # COVID-19 and PM₂.₅ Analysis in Illinois
 
-Data pre-processing** is based on the work of [wxwx1993/PM_COVID](https://github.com/wxwx1993/PM_COVID).
+Data pre-processing is based on the work of [wxwx1993/PM_COVID](https://github.com/wxwx1993/PM_COVID).
 
 ---
 
