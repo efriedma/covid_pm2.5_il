@@ -1,9 +1,7 @@
 
 # COVID-19 and PM₂.₅ Analysis in Illinois
 
-A reproducible R pipeline to investigate the relationship between long-term fine particulate exposure (PM₂.₅) and COVID-19 case rates across Illinois counties.  
-
-**Data pre-processing** is based on the work of [wxwx1993/PM_COVID](https://github.com/wxwx1993/PM_COVID).
+Data pre-processing** is based on the work of [wxwx1993/PM_COVID](https://github.com/wxwx1993/PM_COVID).
 
 ---
 
