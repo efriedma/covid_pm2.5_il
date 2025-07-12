@@ -1,4 +1,3 @@
-
 # 5_mapping.R
 # Data pre-processing pipeline based on wxwx1993/PM_COVID
 
